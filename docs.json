@@ -16,7 +16,9 @@
           "index",
           "quickstart"
         ]
-      }
+      },
+      "untitled-page",
+      "untitled-page-2"
     ],
     "global": {
       "anchors": [
@@ -34,8 +36,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Farmiologo_MAIN-M.png",
+    "dark": "/images/Farmiologo_MAIN-W.png"
   },
   "navbar": {
     "links": [
