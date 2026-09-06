@@ -31,11 +31,21 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "Help Center",
+        "pages": [
+          "Help-Center",
+          "quickstart-guide",
+          "Employees-and-Crews"
+        ]
+      }
+    ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Farmiologo_MAIN-M.png",
+    "dark": "/images/Farmiologo_MAIN-W.png"
   },
   "navbar": {
     "links": [
