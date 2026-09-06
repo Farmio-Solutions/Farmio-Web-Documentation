@@ -38,7 +38,14 @@
         "pages": [
           "Help-Center",
           "quickstart-guide",
-          "Employees-and-Crews"
+          "Employees-and-Crews",
+          "Growers-Ranches-and-Locations",
+          "Company-Management",
+          "Jobs-and-Invoicing",
+          "Time-Tracking",
+          "Users-and-Access",
+          "System-Settings",
+          "Placeholder"
         ]
       }
     ]
