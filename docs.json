@@ -7,7 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/-_FAVICON-M.svg",
+    "dark": "/images/-_FAVICON-W.svg"
+  },
   "navigation": {
     "pages": [
       {
@@ -58,7 +61,8 @@
   },
   "logo": {
     "light": "/images/Farmiologo_MAIN-M.png",
-    "dark": "/images/Farmiologo_MAIN-W.png"
+    "dark": "/images/Farmiologo_MAIN-W.png",
+    "href": "https://farmiosolutions.com"
   },
   "navbar": {
     "links": [
@@ -85,11 +89,7 @@
       "vscode"
     ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+  "fonts": {
+    "family": "Urbanist"
   }
 }
