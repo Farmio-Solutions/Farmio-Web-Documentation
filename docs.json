@@ -37,6 +37,10 @@
     },
     "groups": [
       {
+        "group": "Untitled Group",
+        "pages": []
+      },
+      {
         "group": "Help Center",
         "pages": [
           "Help-Center",
