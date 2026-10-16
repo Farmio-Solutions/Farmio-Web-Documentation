@@ -21,25 +21,7 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
     "groups": [
-      {
-        "group": "Untitled Group",
-        "pages": []
-      },
       {
         "group": "Help Center",
         "pages": [
