@@ -36,10 +36,6 @@
           "System-Settings",
           "mobile-app"
         ]
-      },
-      {
-        "group": "Files",
-        "pages": []
       }
     ]
   },
