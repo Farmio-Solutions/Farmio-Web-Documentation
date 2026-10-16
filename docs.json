@@ -39,9 +39,7 @@
       },
       {
         "group": "Files",
-        "pages": [
-          "files/farmio-members-template.csv"
-        ]
+        "pages": []
       }
     ]
   },
