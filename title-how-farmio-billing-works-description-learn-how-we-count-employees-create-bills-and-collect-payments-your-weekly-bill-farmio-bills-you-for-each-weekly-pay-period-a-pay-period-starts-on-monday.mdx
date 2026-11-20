@@ -1,0 +1,131 @@
+---
+title: "How Farmio billing works"
+description: "Learn how we count employees, create bills, and collect payments."
+---
+
+## Your weekly bill
+
+Farmio bills you for each weekly pay period.
+
+A pay period starts on **Monday** and ends on **Sunday**.
+
+Your bill can include:
+
+- A charge for each employee processed that week.
+- A monthly service fee.
+- Charges or credits from an earlier pay period.
+
+Each employee is counted **once per pay period**, even if they appear on several timecards.
+
+## When your bill is ready
+
+You have **seven days after the pay period ends** to review and fix your timecards.
+
+The period closes on the eighth day. Farmio creates your bill when the period closes.
+
+You then have five days after the scheduled closing date to pay. If you have not paid, Farmio will try to charge your saved payment method.
+
+All billing dates use **Pacific time**.
+
+### Example
+
+For the pay period **November 2–8, 2026**:
+
+- **November 8:** The pay period ends.
+- **November 9–15:** Review and fix your timecards.
+- **November 16:** The period closes and your bill is created.
+- **November 21:** Farmio tries to collect payment if you have not paid.
+
+Closing a period early creates the bill sooner. **It does not make payment due sooner.**
+
+If your contract has different billing dates, those dates apply.
+
+## How employee pricing works
+
+The number of employees processed in a pay period sets your rate.
+
+The same rate applies to every employee in that period.
+
+Our standard rates are:
+
+- **1–50 employees:** \$8 per employee.
+- **51–250 employees:** \$6 per employee.
+- **251–750 employees:** \$4 per employee.
+- **751 or more employees:** \$3 per employee.
+
+For example, 100 employees cost **\$600** for that pay period.
+
+There is no minimum employee charge. If no employees are processed, there is no employee charge.
+
+All prices are in **US dollars**. If your contract has custom rates, your contract rates apply.
+
+## The monthly service fee
+
+The standard service fee is **\$200 per month**.
+
+We add it to the first pay period that **starts in that month**.
+
+For example:
+
+- A period starting October 26 belongs to October, even if it ends in November.
+- A period starting November 2 receives November’s service fee.
+
+The fee is charged only once per month. It still applies if no employees are processed that week.
+
+Your contract may have a different service fee.
+
+## How to pay
+
+Open **System Administration → Billing** to view your bill and payment date.
+
+You can:
+
+- Pay before the payment date.
+- Wait for Farmio to charge your saved payment method.
+
+We accept:
+
+- US bank accounts through ACH.
+- Debit cards.
+- Credit cards.
+
+**A bank account is our recommended payment method.** You may need to verify it before it can be used.
+
+Bank payments can take several business days to finish. Your bill will show **Processing** while the payment is pending.
+
+## If a payment fails
+
+If payment fails, open **Billing** to review the problem and update your payment method.
+
+A bill may show **Past due** if its payment date has passed and a balance remains.
+
+A payment that is still processing will show **Processing**, not Past due.
+
+## Adding employees after a period closes
+
+A closed period can be reopened for fixes.
+
+If you add an employee who was not on the original bill, Farmio updates the employee count and checks the rate again.
+
+This can create an extra charge or a credit.
+
+- If the bill has not been paid and no payment is processing, we update the bill.
+- If payment is processing, we wait for the result before making an adjustment.
+- If the bill was paid, we put the adjustment on a future bill.
+
+### Why you might receive a credit
+
+Adding an employee can move you to a lower rate.
+
+For example:
+
+- The original bill has 50 employees at \$8 each: \*\*\$400\*\*.
+- One more employee is added.
+- The new count is 51 employees at \$6 each: \*\*\$306\*\*.
+- The difference is a **\$94 credit**.
+
+If you already paid, the credit reduces a future bill. Any unused credit stays on your account.
+
+## Who can view billing?
+
+Organization administrators and users with the **billing permission** can view billing information and manage payment methods.
