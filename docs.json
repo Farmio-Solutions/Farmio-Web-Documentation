@@ -13,7 +13,6 @@
   },
   "navigation": {
     "pages": [
-      "title-how-farmio-billing-works-description-learn-how-we-count-employees-create-bills-and-collect-payments-your-weekly-bill-farmio-bills-you-for-each-weekly-pay-period-a-pay-period-starts-on-monday",
       {
         "group": "Help Center",
         "pages": [
@@ -26,7 +25,8 @@
           "Time-Tracking",
           "Users-and-Access",
           "System-Settings",
-          "mobile-app"
+          "mobile-app",
+          "title-how-farmio-billing-works-description-learn-how-we-count-employees-create-bills-and-collect-payments-your-weekly-bill-farmio-bills-you-for-each-weekly-pay-period-a-pay-period-starts-on-monday"
         ]
       },
       {
